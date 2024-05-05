@@ -1,0 +1,14 @@
+D:\source\repos\study\Study001\bin\Debug\net7.0\Study001.exe
+D:\source\repos\study\Study001\bin\Debug\net7.0\Study001.deps.json
+D:\source\repos\study\Study001\bin\Debug\net7.0\Study001.runtimeconfig.json
+D:\source\repos\study\Study001\bin\Debug\net7.0\Study001.dll
+D:\source\repos\study\Study001\bin\Debug\net7.0\Study001.pdb
+D:\source\repos\study\Study001\obj\Debug\net7.0\Study001.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\study\Study001\obj\Debug\net7.0\Study001.AssemblyInfoInputs.cache
+D:\source\repos\study\Study001\obj\Debug\net7.0\Study001.AssemblyInfo.vb
+D:\source\repos\study\Study001\obj\Debug\net7.0\Study001.vbproj.CoreCompileInputs.cache
+D:\source\repos\study\Study001\obj\Debug\net7.0\Study001.dll
+D:\source\repos\study\Study001\obj\Debug\net7.0\refint\Study001.dll
+D:\source\repos\study\Study001\obj\Debug\net7.0\Study001.pdb
+D:\source\repos\study\Study001\obj\Debug\net7.0\Study001.genruntimeconfig.cache
+D:\source\repos\study\Study001\obj\Debug\net7.0\ref\Study001.dll
